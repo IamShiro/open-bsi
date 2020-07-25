@@ -1,150 +1,204 @@
 {
   "1":{
     "Projeto Interdisciplinar para Sistemas de Informação I":{
-      "id":0
+      "id":0,
+      "CH":60,
+      "days": ["Quarta"],
+      "teachers": ["Gilberto Cysneiros","Marcelo Gama"]
     },
     "Fundamentos Matemáticos para Sistemas de Informação I":{
-      "id":0
+      "id":"14708",
+      "CH":60,
+      "days":["Terça"],
+      "teachers": ["Marcelo Gama","Silvana Bocanegra"]
     },
     "Sustentabilidade em Sistemas de Informação":{
-      "id":0
+      "id":0,
+      "CH":60,
+      "days":["Segunda"],
+      "teachers":["Guilherme Vilar"]
     },
     "Introdução à Administração":{
-      "id":0
+      "id":0,
+      "CH":60,
+      "days":["Sexta"],
+      "teachers": ["DADM"]
     },
     "Princípios de Programação":{
-      "id":0
+      "id":"14709",
+      "CH":60,
+      "days":["Quinta"],
+      "teachers":["Gilberto Cysneiros","Cleviton"]
     }
   },
   "2":{
     "Projeto Interdisciplinar para Sistemas de Informação II":{
-      "id":0
+      "id":"14378",
+      "CH":60
     },
     "Fundamentos Matemáticos para Sistemas de Informação II":{
-      "id":0
+      "id":"14737",
+      "CH":60
     },
     "Fundamentos de Problemas Computacionais I":{
-      "id":0
+      "id":0,
+      "CH":60
     },
     "Elementos de Sistemas Computacionais":{
-      "id":0
+      "id":"14735",
+      "CH":60
     },
     "Fundamentos de Sistemas de Informação":{
-      "id":0
+      "id":0,
+      "CH":60
     }
   },
   "3":{
     "Projeto Interdisciplinar para Sistemas de Informação III":{
-      "id":0
+      "id":0,
+      "CH":60
     },
     "Desenvolvimento de Sistemas de Informação":{
-      "id":0
+      "id":0,
+      "CH":60
     },
     "Engenharia para Sistemas de Informação":{
-      "id":0
+      "id":0,
+      "CH":60
     },
     "Introdução ao Armazenamento de Análise de Dados":{
-      "id":0
+      "id":0,
+      "CH":60
     }
   },
   "4":{
     "Projeto Interdisciplinar para Sistemas de Informação IV":{
-      "id":0
+      "id":0,
+      "CH":60
     },
     "Princípios de Software Básico":{
-      "id":0
+      "id":0,
+      "CH":60
     },
     "Fundamentos de Problemas Computacionais II":{
-      "id":0
+      "id":0,
+      "CH":60
     },
     "Sistemas de Informação para Internet":{
-      "id":0
+      "id":0,
+      "CH":60
     }
   },
   "5":{
     "Projeto de Desenvolvimento Tecnológico para o Mundo I":{
-      "id":0
+      "id":0,
+      "CH":60
     },
     "Segurança e Auditoria de Sistemas":{
-      "id":0
+      "id":0,
+      "CH":60
     },
     "Engenharia para Sistemas de Informação II":{
-      "id":0
+      "id":0,
+      "CH":60
     },
     "Empreendedorismo e Inovação":{
-      "id":0
+      "id":0,
+      "CH":60
     }
   },
   "6":{
     "Projeto de Desenvolvimento Tecnológico para o Mundo II":{
-      "id":0
+      "id":0,
+      "CH":60
     },
     "Cálculo N1":{
-      "id":0
+      "id":0,
+      "CH":60
     },
     "Engenharia para Sistemas de Informação III":{
-      "id":0
+      "id":0,
+      "CH":60
     },
     "Modelagem de Dados":{
-      "id":0
+      "id":0,
+      "CH":60
     }
   },
   "7":{
     "Princípios de Teoria da Computação":{
-      "id":0
+      "id":0,
+      "CH":60
     },
     "Estatística Aplicada a Análise de Dados":{
-      "id":0
+      "id":0,
+      "CH":60
     },
     "Projeto para Sociedade I":{
-      "id":0
+      "id":0,
+      "CH":60
     },
     "Projeto de Soluções Complexas I":{
-      "id":0
+      "id":0,
+      "CH":60
     }
   },
   "8":{
     "Gestão de Conhecimento":{
-      "id":0
+      "id":0,
+      "CH":60
     },
     "Fundamentos de Estratégia Competitva":{
-      "id":0
+      "id":0,
+      "CH":60
     },
     "Projeto para Sociedade II":{
-      "id":0
+      "id":0,
+      "CH":60
     },
     "Projeto de Soluções Complexas II":{
-      "id":0
+      "id":0,
+      "CH":60
     }
   },
   "9":{
     "Trabalho de Conclusão de Curso":{
-      "id":"14308"
+      "id":"14308",
+      "CH":420
     },
     "Educação Física A":{
-      "id":"04208"
+      "id":"04208",
+      "CH":30
     }
   },
   "optativas":{
     "Desenvolvimento Ágil de Software":{
-      "id":"14327"
+      "id":"14327",
+      "CH":60
     },
     "Tópicos Avançados em IA (Computação Evolucionária":{
-      "id":"14024"
+      "id":"14024",
+      "CH":60
     },
     "Sistemas Colaborativos":{
-      "id":"14325"
+      "id":"14325",
+      "CH":60
     },
     "Tópicos em Otimização":{
-      "id":"06277"
+      "id":"06277",
+      "CH":60
     },
     "Modelos de Qualidade":{
-      "id":"14301"
+      "id":"14301",
+      "CH":60
     },
     "Fundamentos de Criptografia":{
-      "id":"14705"
+      "id":"14705",
+      "CH":60
     },
     "Tópicos Avançados em Sistemas Distribuídos I":{
-      "id":"14060"}
+      "id":"14060",
+      "CH":60
+      }
     }
 }
