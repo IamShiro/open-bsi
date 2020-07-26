@@ -1,204 +1,286 @@
 {
-  "1":{
-    "Projeto Interdisciplinar para Sistemas de Informação I":{
-      "id":0,
-      "CH":60,
-      "days": ["Quarta"],
-      "teachers": ["Gilberto Cysneiros","Marcelo Gama"]
-    },
-    "Fundamentos Matemáticos para Sistemas de Informação I":{
-      "id":"14708",
-      "CH":60,
-      "days":["Terça"],
-      "teachers": ["Marcelo Gama","Silvana Bocanegra"]
-    },
-    "Sustentabilidade em Sistemas de Informação":{
-      "id":0,
-      "CH":60,
-      "days":["Segunda"],
-      "teachers":["Guilherme Vilar"]
-    },
-    "Introdução à Administração":{
-      "id":0,
-      "CH":60,
-      "days":["Sexta"],
-      "teachers": ["DADM"]
-    },
-    "Princípios de Programação":{
-      "id":"14709",
-      "CH":60,
-      "days":["Quinta"],
-      "teachers":["Gilberto Cysneiros","Cleviton"]
-    }
-  },
-  "2":{
-    "Projeto Interdisciplinar para Sistemas de Informação II":{
-      "id":"14378",
-      "CH":60
-    },
-    "Fundamentos Matemáticos para Sistemas de Informação II":{
-      "id":"14737",
-      "CH":60
-    },
-    "Fundamentos de Problemas Computacionais I":{
-      "id":0,
-      "CH":60
-    },
-    "Elementos de Sistemas Computacionais":{
-      "id":"14735",
-      "CH":60
-    },
-    "Fundamentos de Sistemas de Informação":{
-      "id":0,
-      "CH":60
-    }
-  },
-  "3":{
-    "Projeto Interdisciplinar para Sistemas de Informação III":{
-      "id":0,
-      "CH":60
-    },
-    "Desenvolvimento de Sistemas de Informação":{
-      "id":0,
-      "CH":60
-    },
-    "Engenharia para Sistemas de Informação":{
-      "id":0,
-      "CH":60
-    },
-    "Introdução ao Armazenamento de Análise de Dados":{
-      "id":0,
-      "CH":60
-    }
-  },
-  "4":{
-    "Projeto Interdisciplinar para Sistemas de Informação IV":{
-      "id":0,
-      "CH":60
-    },
-    "Princípios de Software Básico":{
-      "id":0,
-      "CH":60
-    },
-    "Fundamentos de Problemas Computacionais II":{
-      "id":0,
-      "CH":60
-    },
-    "Sistemas de Informação para Internet":{
-      "id":0,
-      "CH":60
-    }
-  },
-  "5":{
-    "Projeto de Desenvolvimento Tecnológico para o Mundo I":{
-      "id":0,
-      "CH":60
-    },
-    "Segurança e Auditoria de Sistemas":{
-      "id":0,
-      "CH":60
-    },
-    "Engenharia para Sistemas de Informação II":{
-      "id":0,
-      "CH":60
-    },
-    "Empreendedorismo e Inovação":{
-      "id":0,
-      "CH":60
-    }
-  },
-  "6":{
-    "Projeto de Desenvolvimento Tecnológico para o Mundo II":{
-      "id":0,
-      "CH":60
-    },
-    "Cálculo N1":{
-      "id":0,
-      "CH":60
-    },
-    "Engenharia para Sistemas de Informação III":{
-      "id":0,
-      "CH":60
-    },
-    "Modelagem de Dados":{
-      "id":0,
-      "CH":60
-    }
-  },
-  "7":{
-    "Princípios de Teoria da Computação":{
-      "id":0,
-      "CH":60
-    },
-    "Estatística Aplicada a Análise de Dados":{
-      "id":0,
-      "CH":60
-    },
-    "Projeto para Sociedade I":{
-      "id":0,
-      "CH":60
-    },
-    "Projeto de Soluções Complexas I":{
-      "id":0,
-      "CH":60
-    }
-  },
-  "8":{
-    "Gestão de Conhecimento":{
-      "id":0,
-      "CH":60
-    },
-    "Fundamentos de Estratégia Competitva":{
-      "id":0,
-      "CH":60
-    },
-    "Projeto para Sociedade II":{
-      "id":0,
-      "CH":60
-    },
-    "Projeto de Soluções Complexas II":{
-      "id":0,
-      "CH":60
-    }
-  },
-  "9":{
-    "Trabalho de Conclusão de Curso":{
-      "id":"14308",
-      "CH":420
-    },
-    "Educação Física A":{
-      "id":"04208",
-      "CH":30
-    }
-  },
-  "optativas":{
-    "Desenvolvimento Ágil de Software":{
-      "id":"14327",
-      "CH":60
-    },
-    "Tópicos Avançados em IA (Computação Evolucionária":{
-      "id":"14024",
-      "CH":60
-    },
-    "Sistemas Colaborativos":{
-      "id":"14325",
-      "CH":60
-    },
-    "Tópicos em Otimização":{
-      "id":"06277",
-      "CH":60
-    },
-    "Modelos de Qualidade":{
-      "id":"14301",
-      "CH":60
-    },
-    "Fundamentos de Criptografia":{
-      "id":"14705",
-      "CH":60
-    },
-    "Tópicos Avançados em Sistemas Distribuídos I":{
-      "id":"14060",
-      "CH":60
+    "1":{
+      "Projeto Interdisciplinar para Sistemas de Informação I":{
+        "id":0,
+        "CH":60,
+        "days": ["Quarta"],
+        "teachers": ["Gilberto Cysneiros","Marcelo Gama"]
+      },
+      "Fundamentos Matemáticos para Sistemas de Informação I":{
+        "id":"14708",
+        "CH":60,
+        "days":["Terça"],
+        "teachers": ["Marcelo Gama","Silvana Bocanegra"]
+      },
+      "Sustentabilidade em Sistemas de Informação":{
+        "id":0,
+        "CH":60,
+        "days":["Segunda"],
+        "teachers":["Guilherme Vilar"]
+      },
+      "Introdução à Administração":{
+        "id":0,
+        "CH":60,
+        "days":["Sexta"],
+        "teachers": ["Prof. DADM"]
+      },
+      "Princípios de Programação":{
+        "id":"14709",
+        "CH":60,
+        "days":["Quinta"],
+        "teachers":["Gilberto Cysneiros","Cleviton"]
       }
+    },
+    "2":{
+      "Projeto Interdisciplinar para Sistemas de Informação II":{
+        "id":"14378",
+        "CH":60,
+        "days":["Quarta"],
+        "teachers":["Cícero Garrozi","Victor Medeiros","Cleviton"]
+      },
+      "Fundamentos Matemáticos para Sistemas de Informação II":{
+        "id":"14737",
+        "CH":60,
+        "days":["Terça"],
+        "teachers":["Marcelo Gama"]
+      },
+      "Fundamentos de Problemas Computacionais I":{
+        "id":0,
+        "CH":60,
+        "days":["Quinta"],
+        "teachers":["Cícero Garrozi"]
+      },
+      "Elementos de Sistemas Computacionais":{
+        "id":"14735",
+        "CH":60,
+        "days":["Sexta"],
+        "teachers":["Victor Medeiros"]
+      },
+      "Fundamentos de Sistemas de Informação":{
+        "id":0,
+        "CH":60,
+        "days":["Segunda"],
+        "teachers":["Prof. DADM"]
+      }
+    },
+    "3":{
+      "Projeto Interdisciplinar para Sistemas de Informação III":{
+        "id":0,
+        "CH":60,
+        "days":["Quarta"],
+        "teachers":["Ceça","Gabriel Alves"]
+      },
+      "Desenvolvimento de Sistemas de Informação":{
+        "id":0,
+        "CH":60,
+        "days":["Quinta"],
+        "teachers":["Gabriel Alves"]
+      },
+      "Engenharia para Sistemas de Informação I":{
+        "id":0,
+        "CH":60,
+        "days":["Segunda"],
+        "teachers":["Cleviton"]
+      },
+      "Introdução ao Armazenamento de Análise de Dados":{
+        "id":0,
+        "CH":60,
+        "days":["Terça"],
+        "teachers":["Gabriel Alves","Roberta Macedo"]
+      }
+    },
+    "4":{
+      "Projeto Interdisciplinar para Sistemas de Informação IV":{
+        "id":0,
+        "CH":60,
+        "days":["Quarta"],
+        "teachers":["Glauco Gonçalves","Victor Medeiros"]
+      },
+      "Princípios de Software Básico":{
+        "id":0,
+        "CH":60,
+        "days":["Terça"],
+        "teachers":["Rodrigo Assad"]
+      },
+      "Fundamentos de Problemas Computacionais II":{
+        "id":0,
+        "CH":60,
+        "days":["Quinta"],
+        "teachers":["Jones Albuquerque"]
+      },
+      "Sistemas de Informação para Internet":{
+        "id":0,
+        "CH":60,
+        "days":["Sexta"],
+        "teachers":["Glauco Gonçalves"]
+      }
+    },
+    "5":{
+      "Projeto de Desenvolvimento Tecnológico para o Mundo I":{
+        "id":0,
+        "CH":60,
+        "days":["Quarta"],
+        "teachers":["Guilherme Vilar","Ana Rouiller"]
+      },
+      "Segurança e Auditoria de Sistemas":{
+        "id":0,
+        "CH":60,
+        "days":["Quinta"],
+        "teachers":["Rodrigo Assad"]
+      },
+      "Engenharia para Sistemas de Informação II":{
+        "id":0,
+        "CH":60,
+        "days":["Segunda"],
+        "teachers":["Ana Rouiller"]
+      },
+      "Empreendedorismo e Inovação":{
+        "id":0,
+        "CH":60,
+        "days":["Sexta"],
+        "teachers":["Prof. DADM"]
+      }
+    },
+    "6":{
+      "Projeto de Desenvolvimento Tecnológico para o Mundo II":{
+        "id":0,
+        "CH":60,
+        "days":["Quarta"],
+        "teachers":["Jones Albuquerque","Teresa Maciel"]
+      },
+      "Cálculo N1":{
+        "id":0,
+        "CH":60,
+        "days":["Quinta","Sexta"],
+        "teachers":["Prof. DM"]
+      },
+      "Engenharia para Sistemas de Informação III":{
+        "id":0,
+        "CH":60,
+        "days":["Segunda"],
+        "teachers":["Teresa Maciel"]
+      },
+      "Modelagem de Dados":{
+        "id":0,
+        "CH":60,
+        "days":["Terça"],
+        "teachers":["Ceça"]
+      }
+    },
+    "7":{
+      "Princípios de Teoria da Computação":{
+        "id":0,
+        "CH":60,
+        "days":["Sexta"],
+        "teachers":["Wilson de Oliveira"]
+      },
+      "Estatística Aplicada a Análise de Dados":{
+        "id":0,
+        "CH":60,
+        "days":["Segunda"],
+        "teachers":["Prof.DEINFO"]
+      },
+      "Projeto para Sociedade I":{
+        "id":0,
+        "CH":60,
+        "days":["Quarta"],
+        "teachers":["Ana Rouiller","Rodrigo Assad"]
+      },
+      "Projeto de Soluções Complexas I":{
+        "id":0,
+        "CH":60,
+        "days":["Quarta"],
+        "teachers":["Jones Albuquerque","Wilson de Oliveira"]
+      }
+    },
+    "8":{
+      "Gestão de Conhecimento":{
+        "id":0,
+        "CH":60,
+        "days":["Sexta"],
+        "teachers":["Prof. DADM"]
+      },
+      "Fundamentos de Estratégia Competitiva":{
+        "id":0,
+        "CH":60,
+        "days":["Terça"],
+        "teachers":["Prof. DADM"]
+      },
+      "Projeto para Sociedade II":{
+        "id":0,
+        "CH":60,
+        "days":["Quarta"],
+        "teachers":[""]
+      },
+      "Projeto de Soluções Complexas II":{
+        "id":0,
+        "CH":60,
+        "days":["Quarta"],
+        "teachers":[""]
+      }
+    },
+    "9":{
+      "Trabalho de Conclusão de Curso":{
+        "id":"14308",
+        "CH":420,
+        "days":["Segunda","Terça","Quarta","Quinta","Sexta"],
+        "teachers":["Silvana Bocanegra"]
+      },
+      "Educação Física A":{
+        "id":"04208",
+        "CH":30,
+        "days":["Segunda","Terça","Quarta","Quinta","Sexta"],
+        "teachers":[""]
+      }
+    },
+    "optativas":{
+      "Desenvolvimento Ágil de Software":{
+        "id":"14327",
+        "CH":60,
+        "days":["Sexta"],
+        "teachers":["Teresa Maciel"]
+      },
+      "Tópicos Avançados em IA (Computação Evolucionária":{
+        "id":"14024",
+        "CH":60,
+        "days":["Segunda"],
+        "teachers":["Cícero Garrozi"]
+      },
+      "Sistemas Colaborativos":{
+        "id":"14325",
+        "CH":60,
+        "days":["Terça"],
+        "teachers":["Guilherme Vilar"]
+      },
+      "Tópicos em Otimização":{
+        "id":"06277",
+        "CH":60,
+        "days":["Sexta"],
+        "teachers":["Cláudio Cristino"]
+      },
+      "Modelos de Qualidade":{
+        "id":"14301",
+        "CH":60,
+        "days":["Quinta"],
+        "teachers":["Ana Rouiller"]
+      },
+      "Fundamentos de Criptografia":{
+        "id":"14705",
+        "CH":60,
+        "days":["Quinta"],
+        "teachers":["Marcelo Gama"]
+      },
+      "Tópicos Avançados em Sistemas Distribuídos I":{
+        "id":"14060",
+        "CH":60,
+        "days":["Quinta"],
+        "teachers":["Victor Medeiros"]
+        },
+      "Modelos de Redes":{
+        "id":"14027",
+        "CH":60,
+        "days":["Terça"],
+        "teachers":["Glauco Gonçalves"]
+        }
     }
-}
+  }
