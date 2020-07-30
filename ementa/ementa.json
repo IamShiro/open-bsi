@@ -1,286 +1,708 @@
-{
-    "1":{
-      "Projeto Interdisciplinar para Sistemas de Informação I":{
+[
+    {
         "id":0,
-        "CH":60,
-        "days": ["Quarta"],
-        "teachers": ["Gilberto Cysneiros","Marcelo Gama"]
-      },
-      "Fundamentos Matemáticos para Sistemas de Informação I":{
-        "id":"14708",
-        "CH":60,
-        "days":["Terça"],
-        "teachers": ["Marcelo Gama","Silvana Bocanegra"]
-      },
-      "Sustentabilidade em Sistemas de Informação":{
-        "id":0,
-        "CH":60,
-        "days":["Segunda"],
-        "teachers":["Guilherme Vilar"]
-      },
-      "Introdução à Administração":{
-        "id":0,
-        "CH":60,
-        "days":["Sexta"],
-        "teachers": ["Prof. DADM"]
-      },
-      "Princípios de Programação":{
-        "id":"14709",
-        "CH":60,
-        "days":["Quinta"],
-        "teachers":["Gilberto Cysneiros","Cleviton"]
-      }
-    },
-    "2":{
-      "Projeto Interdisciplinar para Sistemas de Informação II":{
-        "id":"14378",
-        "CH":60,
-        "days":["Quarta"],
-        "teachers":["Cícero Garrozi","Victor Medeiros","Cleviton"]
-      },
-      "Fundamentos Matemáticos para Sistemas de Informação II":{
-        "id":"14737",
-        "CH":60,
-        "days":["Terça"],
-        "teachers":["Marcelo Gama"]
-      },
-      "Fundamentos de Problemas Computacionais I":{
-        "id":0,
-        "CH":60,
-        "days":["Quinta"],
-        "teachers":["Cícero Garrozi"]
-      },
-      "Elementos de Sistemas Computacionais":{
-        "id":"14735",
-        "CH":60,
-        "days":["Sexta"],
-        "teachers":["Victor Medeiros"]
-      },
-      "Fundamentos de Sistemas de Informação":{
-        "id":0,
-        "CH":60,
-        "days":["Segunda"],
-        "teachers":["Prof. DADM"]
-      }
-    },
-    "3":{
-      "Projeto Interdisciplinar para Sistemas de Informação III":{
-        "id":0,
-        "CH":60,
-        "days":["Quarta"],
-        "teachers":["Ceça","Gabriel Alves"]
-      },
-      "Desenvolvimento de Sistemas de Informação":{
-        "id":0,
-        "CH":60,
-        "days":["Quinta"],
-        "teachers":["Gabriel Alves"]
-      },
-      "Engenharia para Sistemas de Informação I":{
-        "id":0,
-        "CH":60,
-        "days":["Segunda"],
-        "teachers":["Cleviton"]
-      },
-      "Introdução ao Armazenamento de Análise de Dados":{
-        "id":0,
-        "CH":60,
-        "days":["Terça"],
-        "teachers":["Gabriel Alves","Roberta Macedo"]
-      }
-    },
-    "4":{
-      "Projeto Interdisciplinar para Sistemas de Informação IV":{
-        "id":0,
-        "CH":60,
-        "days":["Quarta"],
-        "teachers":["Glauco Gonçalves","Victor Medeiros"]
-      },
-      "Princípios de Software Básico":{
-        "id":0,
-        "CH":60,
-        "days":["Terça"],
-        "teachers":["Rodrigo Assad"]
-      },
-      "Fundamentos de Problemas Computacionais II":{
-        "id":0,
-        "CH":60,
-        "days":["Quinta"],
-        "teachers":["Jones Albuquerque"]
-      },
-      "Sistemas de Informação para Internet":{
-        "id":0,
-        "CH":60,
-        "days":["Sexta"],
-        "teachers":["Glauco Gonçalves"]
-      }
-    },
-    "5":{
-      "Projeto de Desenvolvimento Tecnológico para o Mundo I":{
-        "id":0,
-        "CH":60,
-        "days":["Quarta"],
-        "teachers":["Guilherme Vilar","Ana Rouiller"]
-      },
-      "Segurança e Auditoria de Sistemas":{
-        "id":0,
-        "CH":60,
-        "days":["Quinta"],
-        "teachers":["Rodrigo Assad"]
-      },
-      "Engenharia para Sistemas de Informação II":{
-        "id":0,
-        "CH":60,
-        "days":["Segunda"],
-        "teachers":["Ana Rouiller"]
-      },
-      "Empreendedorismo e Inovação":{
-        "id":0,
-        "CH":60,
-        "days":["Sexta"],
-        "teachers":["Prof. DADM"]
-      }
-    },
-    "6":{
-      "Projeto de Desenvolvimento Tecnológico para o Mundo II":{
-        "id":0,
-        "CH":60,
-        "days":["Quarta"],
-        "teachers":["Jones Albuquerque","Teresa Maciel"]
-      },
-      "Cálculo N1":{
-        "id":0,
-        "CH":60,
-        "days":["Quinta","Sexta"],
-        "teachers":["Prof. DM"]
-      },
-      "Engenharia para Sistemas de Informação III":{
-        "id":0,
-        "CH":60,
-        "days":["Segunda"],
-        "teachers":["Teresa Maciel"]
-      },
-      "Modelagem de Dados":{
-        "id":0,
-        "CH":60,
-        "days":["Terça"],
-        "teachers":["Ceça"]
-      }
-    },
-    "7":{
-      "Princípios de Teoria da Computação":{
-        "id":0,
-        "CH":60,
-        "days":["Sexta"],
-        "teachers":["Wilson de Oliveira"]
-      },
-      "Estatística Aplicada a Análise de Dados":{
-        "id":0,
-        "CH":60,
-        "days":["Segunda"],
-        "teachers":["Prof.DEINFO"]
-      },
-      "Projeto para Sociedade I":{
-        "id":0,
-        "CH":60,
-        "days":["Quarta"],
-        "teachers":["Ana Rouiller","Rodrigo Assad"]
-      },
-      "Projeto de Soluções Complexas I":{
-        "id":0,
-        "CH":60,
-        "days":["Quarta"],
-        "teachers":["Jones Albuquerque","Wilson de Oliveira"]
-      }
-    },
-    "8":{
-      "Gestão de Conhecimento":{
-        "id":0,
-        "CH":60,
-        "days":["Sexta"],
-        "teachers":["Prof. DADM"]
-      },
-      "Fundamentos de Estratégia Competitiva":{
-        "id":0,
-        "CH":60,
-        "days":["Terça"],
-        "teachers":["Prof. DADM"]
-      },
-      "Projeto para Sociedade II":{
-        "id":0,
-        "CH":60,
-        "days":["Quarta"],
-        "teachers":[""]
-      },
-      "Projeto de Soluções Complexas II":{
-        "id":0,
-        "CH":60,
-        "days":["Quarta"],
-        "teachers":[""]
-      }
-    },
-    "9":{
-      "Trabalho de Conclusão de Curso":{
-        "id":"14308",
-        "CH":420,
-        "days":["Segunda","Terça","Quarta","Quinta","Sexta"],
-        "teachers":["Silvana Bocanegra"]
-      },
-      "Educação Física A":{
-        "id":"04208",
-        "CH":30,
-        "days":["Segunda","Terça","Quarta","Quinta","Sexta"],
-        "teachers":[""]
-      }
-    },
-    "optativas":{
-      "Desenvolvimento Ágil de Software":{
-        "id":"14327",
-        "CH":60,
-        "days":["Sexta"],
-        "teachers":["Teresa Maciel"]
-      },
-      "Tópicos Avançados em IA (Computação Evolucionária":{
-        "id":"14024",
-        "CH":60,
-        "days":["Segunda"],
-        "teachers":["Cícero Garrozi"]
-      },
-      "Sistemas Colaborativos":{
-        "id":"14325",
-        "CH":60,
-        "days":["Terça"],
-        "teachers":["Guilherme Vilar"]
-      },
-      "Tópicos em Otimização":{
-        "id":"06277",
-        "CH":60,
-        "days":["Sexta"],
-        "teachers":["Cláudio Cristino"]
-      },
-      "Modelos de Qualidade":{
-        "id":"14301",
-        "CH":60,
-        "days":["Quinta"],
-        "teachers":["Ana Rouiller"]
-      },
-      "Fundamentos de Criptografia":{
-        "id":"14705",
-        "CH":60,
-        "days":["Quinta"],
-        "teachers":["Marcelo Gama"]
-      },
-      "Tópicos Avançados em Sistemas Distribuídos I":{
-        "id":"14060",
-        "CH":60,
-        "days":["Quinta"],
-        "teachers":["Victor Medeiros"]
-        },
-      "Modelos de Redes":{
-        "id":"14027",
-        "CH":60,
-        "days":["Terça"],
-        "teachers":["Glauco Gonçalves"]
+        "code": null,
+        "name": "Projeto Interdisciplinar para Sistemas de Informação I",
+        "workload": 60,
+        "location": ["CEAGRI II - Lab 43","CEAGRI II - Lab 41"],
+        "class": ["SI-1"],
+        "teachers": ["Gilberto Cysneiros",14],
+        "schelude":{
+            "3": [
+                "08:00",
+                "12:00"
+            ]
         }
-    }
-  }
+    },
+    {
+        "id":1,
+        "code": 14708,
+        "name": "Fundamentos Matemáticos para Sistemas de Informação I",
+        "workload": 60,
+        "location": ["CEAGRI II - Sala 38","CEAGRI II - Lab 37","CEAGRI II - Sala Multiuso 03"],
+        "class": ["SI-1","SI-2"],
+        "teachers": [19,14],
+        "schelude":{
+            "2": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":2,
+        "code": null,
+        "name": "Sustentabilidade em Sistemas de Informação",
+        "workload": 60,
+        "location": ["CEAGRI II - Sala Multiuso 02"],
+        "class": ["SI-1","SI-2"],
+        "teachers": [11],
+        "schelude":{
+            "1": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":3,
+        "code": null,
+        "name": "Introdução à Administração",
+        "workload": 60,
+        "location": ["CEAGRI II - Sala Multiuso 02"],
+        "class": ["SI-1"],
+        "teachers": [null],
+        "schelude":{
+            "5": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":4,
+        "code": 14709,
+        "name": "Princípios de Programação",
+        "workload": 60,
+        "location": ["CEAGRI I - Lab 10","CEAGRI II - Lab 43"],
+        "class": ["SI-1","SI-2"],
+        "teachers": ["Gilberto Cysneiros",7],
+        "schelude":{
+            "4": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":5,
+        "code": 14378,
+        "name": "Projeto Interdisciplinar para Sistemas de Informação II",
+        "workload": 60,
+        "location": ["CEAGRI I - Lab 05","CEAGRI I - Lab 10","CEAGRI I - Lab 15"],
+        "class": ["SI-1"],
+        "teachers": [5,23,7],
+        "schelude":{
+            "3": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":6,
+        "code": 14737,
+        "name": "Fundamentos Matemáticos para Sistemas de Informação II",
+        "workload": 60,
+        "location": ["CEAGRI II - Sala Multiuso 02"],
+        "class": ["SI-1"],
+        "teachers": [14],
+        "schelude":{
+            "2": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":7,
+        "code": null,
+        "name": "Fundamentos de Problemas Computacionais I",
+        "workload": 60,
+        "location": ["CEAGRI II - Sala Multiuso 02","CEAGRI II - Lab 41"],
+        "class": ["SI-1"],
+        "teachers": [5],
+        "schelude":{
+            "4": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":8,
+        "code": 14735,
+        "name": "Elementos de Sistemas Computacionais",
+        "workload": 60,
+        "location": ["CEAGRI I - Lab 15"],
+        "class": ["SI-1"],
+        "teachers": [23],
+        "schelude":{
+            "5": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":9,
+        "code": null,
+        "name": "Fundamentos de Sistemas de Informação",
+        "workload": 60,
+        "location": ["CEAGRI II - Sala 38"],
+        "class": ["SI-1"],
+        "teachers": [null],
+        "schelude":{
+            "1": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":10,
+        "code": null,
+        "name": "Projeto Interdisciplinar para Sistemas de Informação III",
+        "workload": 60,
+        "location": ["CEAGRI II - Lab 39","CEAGRI II - Lab 37"],
+        "class": ["SI-1"],
+        "teachers": [15,9],
+        "schelude":{
+            "3": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":11,
+        "code": null,
+        "name": "Desenvolvimento de Sistemas de Informação",
+        "workload": 60,
+        "location": ["CEAGRI I - Lab 15"],
+        "class": ["SI-1"],
+        "teachers": [9],
+        "schelude":{
+            "4": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":12,
+        "code": null,
+        "name": "Engenharia para Sistemas de Informação I",
+        "workload": 60,
+        "location": ["CEAGRI II - Lab 35"],
+        "class": ["SI-1"],
+        "teachers": [7],
+        "schelude":{
+            "1": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":13,
+        "code": null,
+        "name": "Introdução ao Armazenamento de Análise de Dados",
+        "workload": 60,
+        "location": ["CEAGRI II - Lab 35"],
+        "class": ["SI-1","SI-2"],
+        "teachers": [16,9],
+        "schelude":{
+            "2": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":14,
+        "code": null,
+        "name": "Projeto Interdisciplinar para Sistemas de Informação IV",
+        "workload": 60,
+        "location": ["CEAGRI II - Lab 35"],
+        "class": ["SI-1"],
+        "teachers": [23,10],
+        "schelude":{
+            "3": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },{
+        "id":15,
+        "code": null,
+        "name": "Princípios de Software Básico",
+        "workload": 60,
+        "location": ["CEAGRI I - Lab 05"],
+        "class": ["SI-1"],
+        "teachers": [17],
+        "schelude":{
+            "2": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":16,
+        "code": null,
+        "name": "Fundamentos de Problemas Computacionais II",
+        "workload": 60,
+        "location": ["CEAGRI II - Lab 37"],
+        "class": ["SI-1"],
+        "teachers": [13],
+        "schelude":{
+            "4": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":17,
+        "code": null,
+        "name": "Sistemas de Informação para Internet",
+        "workload": 60,
+        "location": ["CEAGRI II - Lab 37"],
+        "class": ["SI-1"],
+        "teachers": [10],
+        "schelude":{
+            "5": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":18,
+        "code": null,
+        "name": "Projeto de Desenvolvimento Tecnológico para o Mundo I",
+        "workload": 60,
+        "location": ["CEAGRI II - Sala 36"],
+        "class": ["SI-1"],
+        "teachers": [1,11],
+        "schelude":{
+            "3": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":19,
+        "code": null,
+        "name": "Segurança e Auditoria de Sistemas",
+        "workload": 60,
+        "location": ["CEAGRI II - Lab 39","CEAGRI II - Sala 38"],
+        "class": ["SI-1"],
+        "teachers": [17],
+        "schelude":{
+            "4": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":20,
+        "code": null,
+        "name": "Engenharia para Sistemas de Informação II",
+        "workload": 60,
+        "location": ["CEAGRI II - Lab 39"],
+        "class": ["SI-1"],
+        "teachers": [1],
+        "schelude":{
+            "1": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":21,
+        "code": null,
+        "name": "Empreendedorismo e Inovação",
+        "workload": 60,
+        "location": ["CEAGRI II - Sala Multiuso 03"],
+        "class": ["SI-1"],
+        "teachers": [null],
+        "schelude":{
+            "5": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":22,
+        "code": null,
+        "name": "Projeto de Desenvolvimento Tecnológico para o Mundo II",
+        "workload": 60,
+        "location": ["CEAGRI II - Sala 36"],
+        "class": ["SI-1"],
+        "teachers": [19,17],
+        "schelude":{
+            "3": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":23,
+        "code": null,
+        "name": "Cálculo N1",
+        "workload": 60,
+        "location": ["CEAGRI II - Sala 36"],
+        "class": ["SI-1"],
+        "teachers": [null],
+        "schelude":{
+            "4": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":24,
+        "code": null,
+        "name": "Engenharia para Sistemas de Informação III",
+        "workload": 60,
+        "location": ["CEAGRI II - Lab 41"],
+        "class": ["SI-1"],
+        "teachers": [21],
+        "schelude":{
+            "1": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":25,
+        "code": null,
+        "name": "Modelagem de Dados",
+        "workload": 60,
+        "location": ["CEAGRI II - Lab 41"],
+        "class": ["SI-1"],
+        "teachers": [15],
+        "schelude":{
+            "2": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":26,
+        "code": null,
+        "name": "Princípios de Teoria da Computação",
+        "workload": 60,
+        "location": ["CEAGRI II - Lab 43"],
+        "class": ["SI-1"],
+        "teachers": [24],
+        "schelude":{
+            "5": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":27,
+        "code": null,
+        "name": "Estatística Aplicada a Análise de Dados",
+        "workload": 60,
+        "location": ["CEAGRI II - Lab 43"],
+        "class": ["SI-1"],
+        "teachers": [null],
+        "schelude":{
+            "1": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":28,
+        "code": null,
+        "name": "Projeto para Sociedade I",
+        "workload": 60,
+        "location": ["CEAGRI II - Sala 36"],
+        "class": ["SI-1"],
+        "teachers": [1,17],
+        "schelude":{
+            "3": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":29,
+        "code": null,
+        "name": "Projeto de Soluções Complexas I",
+        "workload": 60,
+        "location": ["CEAGRI II - Sala 36"],
+        "class": ["SI-1"],
+        "teachers": [13,24],
+        "schelude":{
+            "3": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":30,
+        "code": null,
+        "name": "Gestão de Conhecimento",
+        "workload": 60,
+        "location": ["CEAGRI II - Sala 38"],
+        "class": ["SI-1"],
+        "teachers": [null],
+        "schelude":{
+            "5": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":31,
+        "code": null,
+        "name": "Fundamentos de Estratégia Competitiva",
+        "workload": 60,
+        "location": ["CEAGRI II - Sala 36"],
+        "class": ["SI-1"],
+        "teachers": [null],
+        "schelude":{
+            "2": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":32,
+        "code": null,
+        "name": "Projeto para Sociedade II",
+        "workload": 60,
+        "location": [null],
+        "class": ["SI-1"],
+        "teachers": [null],
+        "schelude":{
+            "3": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":33,
+        "code": null,
+        "name": "Projeto de Soluções Complexas II",
+        "workload": 60,
+        "location": [null],
+        "class": ["SI-1"],
+        "teachers": [null],
+        "schelude":{
+            "3": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":34,
+        "code": null,
+        "name": "Análise Organizacional e de Processos",
+        "workload": 60,
+        "location": ["CEAGRI II - Sala Multiuso 03"],
+        "class": ["SI-1"],
+        "teachers": [null],
+        "schelude":{
+            "3": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":35,
+        "code": 14308,
+        "name": "Trabalho de Conclusão de Curso",
+        "workload": 420,
+        "location": [null],
+        "class": [null],
+        "teachers": [19],
+        "schelude":{
+            "1": [
+                "08:00",
+                "18:00"
+            ],
+            "2": [
+                "08:00",
+                "18:00"
+            ],
+            "3": [
+                "08:00",
+                "18:00"
+            ],
+            "4": [
+                "08:00",
+                "18:00"
+            ],
+            "5": [
+                "08:00",
+                "18:00"
+            ]
+        }
+    },
+    {
+        "id":36,
+        "code": 4208,
+        "name": "Educação Física A",
+        "workload": 30,
+        "location": ["Departamento de Educação Física"],
+        "class": [null],
+        "teachers": [null],
+        "schelude":{
+            "1": [
+                "07:00",
+                "17:00"
+            ],
+            "2": [
+                "07:00",
+                "17:00"
+            ],
+            "3": [
+                "07:00",
+                "17:00"
+            ],
+            "4": [
+                "07:00",
+                "17:00"
+            ],
+            "5": [
+                "07:00",
+                "17:00"
+            ]    
+        }
+    },
+    {
+        "id":37,
+        "code": 14327,
+        "name": "Desenvolvimento Ágil de Software",
+        "workload": 60,
+        "location": ["CEAGRI II - Lab 35"],
+        "class": ["GE3"],
+        "teachers": [21],
+        "schelude":{
+            "5": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":38,
+        "code": 14024,
+        "name": "Tópicos Avançados em IA (Computação Evolucionária)",
+        "workload": 60,
+        "location": ["CEAGRI II - Lab 37"],
+        "class": ["GE3"],
+        "teachers": [5],
+        "schelude":{
+            "1": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":39,
+        "code": 14325,
+        "name": "Sistemas Colaborativos",
+        "workload": 60,
+        "location": ["CEAGRI II - Lab 39"],
+        "class": ["GE3"],
+        "teachers": [11],
+        "schelude":{
+            "2": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":40,
+        "code": 6277,
+        "name": "Tópicos em Otimização",
+        "workload": 60,
+        "location": ["CEAGRI II - Lab 39"],
+        "class": ["GE3"],
+        "teachers": [6],
+        "schelude":{
+            "5": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":41,
+        "code": 14301,
+        "name": "Modelos de Qualidade",
+        "workload": 60,
+        "location": ["CEAGRI II - Lab 43"],
+        "class": ["GE3"],
+        "teachers": [1],
+        "schelude":{
+            "2": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":42,
+        "code": 14301,
+        "name": "Fundamentos de Criptografia",
+        "workload": 60,
+        "location": ["CEAGRI I - Lab 15"],
+        "class": ["GE3"],
+        "teachers": [14],
+        "schelude":{
+            "1": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":43,
+        "code": 14060,
+        "name": ["Tópicos Avançados em Sistemas Distribuídos I"],
+        "workload": 60,
+        "location": ["CEAGRI II - Lab 35"],
+        "class": ["GE3"],
+        "teachers": [23],
+        "schelude":{
+            "4": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id":44,
+        "code": 14027,
+        "name": "Modelos de Redes",
+        "workload": 60,
+        "location": ["CEAGRI I - Lab 05"],
+        "class": ["GE3"],
+        "teachers": [10],
+        "schelude":{
+            "4": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    }  
+]
